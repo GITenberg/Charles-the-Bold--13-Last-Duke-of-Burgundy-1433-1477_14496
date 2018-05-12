@@ -1,0 +1,28 @@
+_repo: Charles-the-Bold--13-Last-Duke-of-Burgundy-1433-1477_14496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, Ruth
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '5550'
+    url: http://www.gutenberg.org/2009/agents/5550
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- History -- 1032-1499'
+- !lcsh 'Charles, Duke of Burgundy, 1433-1477'
+- !lcsh 'Burgundy (France) -- History'
+- !lcc 'DC'
+title: Charles the Bold, Last Duke of Burgundy, 1433-1477
+url: http://www.gutenberg.org/ebooks/14496
