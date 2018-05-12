@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5550'
     url: http://www.gutenberg.org/2009/agents/5550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14496#Charles-the-Bold--13-Last-Duke-of-Burgundy-1433-1477
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
 identifiers:
